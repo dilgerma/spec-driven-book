@@ -1,0 +1,12 @@
+{
+  "id": "9f0abf12-0ce8-449f-9c64-26b6d9c974d4",
+  "title": "Request Ticket",
+  "status": "Created",
+  "sliceType": "STATE_CHANGE",
+  "contextName": "Ticketing",
+  "chapterId": "5ed4e293-a13b-431c-9c97-08058d02db81",
+  "chapterTitle": "Ticketing",
+  "ticketNumber": null,
+  "assignee": null,
+  "features": null
+}

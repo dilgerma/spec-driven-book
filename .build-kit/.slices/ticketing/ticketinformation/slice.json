@@ -1,0 +1,12 @@
+{
+  "id": "8b0ceb52-be8d-4098-9740-f5b98ca4b35d",
+  "title": "Ticket Information",
+  "status": "Created",
+  "sliceType": "STATE_VIEW",
+  "contextName": "Ticketing",
+  "chapterId": "5ed4e293-a13b-431c-9c97-08058d02db81",
+  "chapterTitle": "Ticketing",
+  "ticketNumber": null,
+  "assignee": null,
+  "features": null
+}

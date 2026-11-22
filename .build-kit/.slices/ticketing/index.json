@@ -1,0 +1,32 @@
+{
+  "slices": [
+    {
+      "id": "9f0abf12-0ce8-449f-9c64-26b6d9c974d4",
+      "slice": "Request Ticket",
+      "index": 0,
+      "contextName": "Ticketing",
+      "contextSlug": "ticketing",
+      "folder": "requestticket",
+      "status": "Created",
+      "definition": {
+        "id": "9f0abf12-0ce8-449f-9c64-26b6d9c974d4",
+        "title": "Request Ticket",
+        "status": "Created"
+      }
+    },
+    {
+      "id": "8b0ceb52-be8d-4098-9740-f5b98ca4b35d",
+      "slice": "Ticket Information",
+      "index": 1,
+      "contextName": "Ticketing",
+      "contextSlug": "ticketing",
+      "folder": "ticketinformation",
+      "status": "Created",
+      "definition": {
+        "id": "8b0ceb52-be8d-4098-9740-f5b98ca4b35d",
+        "title": "Ticket Information",
+        "status": "Created"
+      }
+    }
+  ]
+}
